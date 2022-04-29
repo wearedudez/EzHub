@@ -1,2 +1,2 @@
 # MonkeHub
-This is the official EzHub repository.
+This is the official MonkeHub repository.
